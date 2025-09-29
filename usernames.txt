@@ -1,0 +1,15 @@
+john
+Alice
+MARK
+john123
+john_doe
+mary-jane
+bob.smith
+user@domain
+root
+admin01
+space user
+UPPERlower
+Test123User
+_onlyletters
+123numbers
